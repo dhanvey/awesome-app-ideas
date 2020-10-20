@@ -101,6 +101,10 @@ An app that will use device camera as input, detect a person's gestures & moveme
 
 ### Instagram client
 
+### Journal App
+
+An app that will allow you to document all your thoughts and ideas throughout the day. It will be fully customizable like a real journal or diary is. You can have multiple journals to record different things(ex. weight loss journal, food diary, goal list, daily to-do list, etc.) all while keeping your thoughts separate and organized. It can have different prompts for you to respond to daily, weekly, or even monthly. That way you'll always have something new and different to think about. It can link to your social media accounts and you can write about the things you posted that day and why. Having a journal app that's easy to use and on the go will ensure that more people document their memories and can refer back to them whenever they want. 
+
 ### Kanban board
 
 ### Kids' milestones tracker
